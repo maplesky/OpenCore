@@ -1,2 +1,12 @@
 # OpenCore
-![/static/About.png]
+![image](/static/About.png)
+![image](/static/Information.png)
+![image](/static/VideoProc.png)
+![image](/static/CPU & GPU.png)
+![image](/static/AirDrop.png)
+![image](/static/Device.png)
+![image](/static/Wireless.png)
+![image](/static/Bluetooth.png)
+![image](/static/Graphics.png)
+![image](/static/Sleep & Wake.png)
+![image](/static/About.png)
