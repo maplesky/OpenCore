@@ -2,7 +2,7 @@
 ![i-1](/static/About.png)
 ![i-2](/static/Information.png)
 ![i-3](/static/VideoProc.png)
-![i-4](/static/CPU & GPU.png)
+![i-4](/static/CPU%20%26%20GPU.png)
 ![i-5](/static/AirDrop.png)
 ![i-6](/static/Device.png)
 ![i-7](/static/Wireless.png)
