@@ -1,2 +1,2 @@
 # OpenCore
-![About](/static/About.png)
+![/static/About.png]
