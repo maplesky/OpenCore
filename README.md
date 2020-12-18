@@ -1,5 +1,3 @@
-# Hackintosh
-This is my complete OpenCore Configure to be used for hackintosh:
 ![i-1](/static/About.png)
 ![i-2](/static/Information.png)
 ![i-3](/static/VideoProc.png)
