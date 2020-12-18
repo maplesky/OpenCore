@@ -8,4 +8,4 @@
 ![i-7](/static/Wireless.png)
 ![i-8](/static/Bluetooth.png)
 ![i-9](/static/Graphics.png)
-![i-10](/static/Sleep & Wake.png)
+![i-10](/static/Sleep%20%26%20Wake.png)
